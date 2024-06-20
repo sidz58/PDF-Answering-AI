@@ -11,7 +11,7 @@ we uploaded, without the use of an API. This project involves getting familiar w
 
 * **Important:** To install ***ANY*** package on VS Code, it is necessary to set up a **virtual environment** in the same folder that you cloned this repo into. Refer to this video link:
 _https://www.youtube.com/watch?v=GZbeL5AcTgw_
-* Install the packages by using the **pip** program. **Refer to the end of this file to find the relevant versions of the packages to insure compatibility**. 
+* Install the packages by using the **pip** program. **Refer to the end of this file to find the relevant versions of the packages to ensure compatibility**. 
 * If you have a newer version of the packages mentioned please downgrade it by using the **pip uninstall** command.
 
 * To access the web application, please run the **WebApp.py** program. You will find a URL which will be hosted locally. **CTRL + Click** to launch the web app.
